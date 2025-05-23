@@ -1,0 +1,12 @@
+.header__MenuLink {
+  display: inline-block;
+  width: 120px;
+  height: 35px;
+  line-height: 35px;
+  background: background linear-gradient(180deg, #046bb9, #1f2e62);
+  color: white;
+  font-size: 16px;
+  box-shadow: 0 1px 4px 1px rgba(255, 255, 255, 0.2);
+}
+
+/*# sourceMappingURL=HeaderLink.module.css.map */

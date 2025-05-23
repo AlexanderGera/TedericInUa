@@ -1,0 +1,14 @@
+table, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  width: 100px;
+}
+
+tr {
+  height: 20px;
+}
+
+/*# sourceMappingURL=IMM_specification_table.module.css.map */

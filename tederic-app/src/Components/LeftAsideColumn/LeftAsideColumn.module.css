@@ -1,0 +1,8 @@
+.aside {
+  display: flex;
+  flex-direction: column;
+  min-width: 295px;
+  padding: 0 10px;
+}
+
+/*# sourceMappingURL=LeftAsideColumn.module.css.map */

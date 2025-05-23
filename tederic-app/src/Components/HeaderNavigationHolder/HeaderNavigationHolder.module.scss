@@ -1,0 +1,12 @@
+@import '../../styles/variables';
+
+.header__MenuHolder {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background: $sectionsBackground;
+    padding: 10px;
+}
+

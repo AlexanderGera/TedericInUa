@@ -1,0 +1,23 @@
+@import '../../styles/variables';
+
+.leftMenu__title {
+  @include columnMenuTitleDecoration;
+  background-color: $grey-color;
+  list-style-type: square;
+  line-height: 28px;
+  font-weight: 500;
+  border-bottom: 1px solid $grey-color;
+
+
+}
+
+.leftMenu__regularText {
+  @include regularTextDecoration;
+  line-height: 20px;
+  font-weight: 400;
+  align-self: flex-start;
+&:hover {
+  color: $regularRedColor;
+}
+
+}

@@ -1,0 +1,23 @@
+.leftMenu__title {
+  color: #1f2e62;
+  text-transform: uppercase;
+  font-size: 15px;
+  background-color: #a6a6a6;
+  list-style-type: square;
+  line-height: 28px;
+  font-weight: 500;
+  border-bottom: 1px solid #a6a6a6;
+}
+
+.leftMenu__regularText {
+  color: #1f2e62;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 400;
+  align-self: flex-start;
+}
+.leftMenu__regularText:hover {
+  color: #DC2017;
+}
+
+/*# sourceMappingURL=LeftMenuColumn.module.css.map */

@@ -1,0 +1,31 @@
+@import "variables";
+
+.content_wrapper {
+  display: flex;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 15px;
+  gap: 15px;
+}
+
+.regular_text_title {
+  @include regularTitleDecoration;
+  font-size: 22px;
+  line-height: 24px;
+  margin-bottom: 25px;
+}
+
+.item_titel {
+  @include regularTitleDecoration;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.link_decoration {
+  @include regularLinkDecoration;
+}
+
+.section_border_top {
+  border-top: 1px solid $logoBlueColor;
+}

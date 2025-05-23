@@ -1,0 +1,16 @@
+.header__contactsHolder {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.header__contactsText {
+  font-size: 18px;
+  color: #000;
+  line-height: 24px;
+}
+.header__contactsText .redText {
+  color: #DC2017;
+}
+
+/*# sourceMappingURL=HeaderContacts.module.css.map */
